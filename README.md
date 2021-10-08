@@ -1,6 +1,6 @@
 # NaqshSaz
 
-NaqshSaz is a windows software to design Rug/Carpet design. (Version 10)
+NaqshSaz is a **Iranian** windows software to design Rug/Carpet design. (Version 10)
 
 > This software is a bit old, it's used some years ago by rug designers. but it's out to date for now.
 
